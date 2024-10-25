@@ -25,6 +25,19 @@ A python based Racing car game for a intermediate. you will learn python core co
 
 # Setup & installation
 
+1. - Fork the [repo](https://github.com/Pavantext/Racing-Car-Game)
+   - Clone the repo to your local system
+     
+   ```git
+   git clone https://github.com/Pavantext/Racing-Car-Game.git
+   ```
+   Make sure you have python installed on your system.
+
+2. - Run python 'main.py' File
+   ```bash
+   python main.py
+   ```
+   
 # ScreenShots
 ![Screenshot (11)](https://github.com/user-attachments/assets/5715ae9f-b798-4a22-9f1f-cf982721c5a1)
 
