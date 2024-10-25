@@ -1,4 +1,4 @@
-# Raccing-Car-Game
+# Racing-Car-Game
 A python based Racing car game for a intermediate. you will learn python core concepts implementations to upgrade yourself
 
 <br>
